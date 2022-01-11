@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://ipsaone.com"
+baseURL = ""
 title = "IPSA ONE - Orbital Nano Experiments"
 theme = "somrat"
 # post pagination
