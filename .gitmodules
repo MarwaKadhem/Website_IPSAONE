@@ -1,3 +1,3 @@
-[submodules "themes\somrat"]
+[submodules "themes/somrat"]
     path = themes\somrat
     url = "https://github.com/somratpro/somrat"
