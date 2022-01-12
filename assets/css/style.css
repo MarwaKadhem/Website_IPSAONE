@@ -601,7 +601,7 @@ input:checked+label span:last-child {
   left: 0;
   right: 0;
   height: 55px;
-  background: rgb(17, 50, 88);
+  background: rgb(0, 0, 0);
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
@@ -614,7 +614,7 @@ input:checked+label span:last-child {
 }
 
 .menu-normal {
-  background: rgb(129, 162, 194);
+  background: rgb(17, 50, 88);
 }
 
 .menu-container-transparent {
