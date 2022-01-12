@@ -618,7 +618,7 @@ input:checked+label span:last-child {
 }
 
 .menu-container-transparent {
-  background: rgb(255, 255, 255);
+  background: rgba(0, 0, 0, 0.6);
 }
 
 .desktop-menu-logo img {
@@ -665,7 +665,7 @@ input:checked+label span:last-child {
 }
 
 .desktop-menu .hvr-underline-from-left.dark:before {
-  background: #ffffff;
+  background: #000000;
 }
 
 .desktop-menu {
@@ -692,7 +692,7 @@ input:checked+label span:last-child {
 }
 
 .menu-item-transparent.menu-item a {
-  color: #ffffff;
+  color: #000000;
 }
 
 /* ========= Mobile Menu ======= */
