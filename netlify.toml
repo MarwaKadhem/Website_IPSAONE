@@ -1,6 +1,6 @@
 [build]
   publish = "Website_IPSAONE/public"
-  command = "hugo"
+  command = "cd Website_IPSAONE && hugo --gc --themesDir ../.."
   
 [build.environment]
   HUGO_VERSION = "0.91.2"
