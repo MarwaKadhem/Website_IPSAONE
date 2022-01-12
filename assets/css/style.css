@@ -665,7 +665,7 @@ input:checked+label span:last-child {
 }
 
 .desktop-menu .hvr-underline-from-left.dark:before {
-  background: #000000;
+  background: #ffffff;
 }
 
 .desktop-menu {
@@ -692,7 +692,7 @@ input:checked+label span:last-child {
 }
 
 .menu-item-transparent.menu-item a {
-  color: #000000;
+  color: #ffffff;
 }
 
 /* ========= Mobile Menu ======= */
