@@ -618,7 +618,7 @@ input:checked+label span:last-child {
 }
 
 .menu-container-transparent {
-  background: rgba(0, 0, 0, 0.6);
+  background: rgb(255, 255, 255);
 }
 
 .desktop-menu-logo img {
@@ -692,7 +692,7 @@ input:checked+label span:last-child {
 }
 
 .menu-item-transparent.menu-item a {
-  color: #ffffff;
+  color: #000000;
 }
 
 /* ========= Mobile Menu ======= */
