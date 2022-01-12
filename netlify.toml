@@ -1,8 +1,0 @@
-[build]
-  publish = "Website_IPSAONE/public"
-  command = "cd Website_IPSAONE && hugo --gc --themesDir ../.."
-  
-[build.environment]
-  HUGO_VERSION = "0.91.2"
-  HUGO_THEME = "repo"
-  HUGO_BASEURL = "/"
