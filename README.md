@@ -6,6 +6,10 @@ As part of the course "computer technologies in telecommunications" (RAE473), th
 
 This repository gathers all the code for the HUGO & JAMstack website (go language) of the association IPSA ONE. 
 
+Website available at: https://ipsaone.netlify.app/
 **Latest update**: 13.01.2022
 
-![alt text](https://github.com/MarwaKadhem/Website_IPSAONE/blob/main/static/images/favicon.png?raw=true)
+![alt text](https://github.com/MarwaKadhem/Website_IPSAONE/blob/main/static/Examplepic.png?raw=true)
+
+
+This website uses the theme created by Somrat at https://github.com/somratpro/somrat.
